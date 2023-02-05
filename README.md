@@ -35,9 +35,10 @@
        </ul>
    </li>
  </ol>
-
+ 
+ <h3>Final Soru 2:</h3>
  <ol>
-   <h2>Final Soru 2:</h2>
+   
    <li>
        <h3 color="Red">Projede Kullanılan Teknoloji Ve Diller:</h3>
        <ul>
@@ -67,9 +68,10 @@
        </ul>
    </li>
  </ol>
-
+ 
+ <h3>Vize Soru 1:</h3>
  <ol>
-   <h2>Vize Soru 1:</h2>
+   
    <li>
        <h3 color="Red">Projede Kullanılan Teknoloji Ve Diller:</h3>
        <ul>
