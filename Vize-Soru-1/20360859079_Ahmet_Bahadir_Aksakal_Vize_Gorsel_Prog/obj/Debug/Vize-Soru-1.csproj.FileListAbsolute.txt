@@ -1,0 +1,11 @@
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\bin\Debug\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog.exe.config
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\bin\Debug\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog.exe
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\bin\Debug\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog.pdb
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\Vize-Soru-1.csproj.AssemblyReference.cache
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\Vize-Soru-1.csproj.SuggestedBindingRedirects.cache
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\_20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog.Form1.resources
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\_20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog.Properties.Resources.resources
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\Vize-Soru-1.csproj.GenerateResource.cache
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\Vize-Soru-1.csproj.CoreCompileInputs.cache
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog.exe
+D:\Belgeler\VisualStudioProjeler\.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim\Vize-Soru-1\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog\obj\Debug\20360859079_Ahmet_Bahadir_Aksakal_Vize_Gorsel_Prog.pdb
