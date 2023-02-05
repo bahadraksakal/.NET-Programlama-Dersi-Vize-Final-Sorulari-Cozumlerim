@@ -3,7 +3,6 @@
 <h3 align="center" color="Darkblue">Ahmet Bahadır Aksakal</h3>
 <h4 align="center" color="Darkblue">20360859079</h4>
 
-<ol>
  <ol>
    <h2>Final Soru 1:</h2>
    <li>
@@ -100,5 +99,5 @@
        </ul>
    </li>
  </ol>
- </ol>
+
 
