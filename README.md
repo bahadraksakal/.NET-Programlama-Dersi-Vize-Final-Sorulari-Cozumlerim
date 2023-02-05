@@ -3,8 +3,8 @@
 <h3 align="center" color="Darkblue">Ahmet Bahadır Aksakal</h3>
 <h4 align="center" color="Darkblue">20360859079</h4>
 
-<ol>
-   <li><h3>Final Soru 1:</h3></li>
+<h3>Final Soru 1:</h3>
+<ol>   
    <li>
        <h3 color="Red">Projede Kullanılan Teknoloji Ve Diller:</h3>
        <ul>
