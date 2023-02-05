@@ -36,6 +36,7 @@
    </li>
  </ol>
  
+ <br>
  <h3>Final Soru 2:</h3>
  <ol>
    
@@ -64,11 +65,11 @@
        <ul>
          <li><img src="gorseller/final2-2.png"></li>
          <li><img src="gorseller/final2-3.png"></li>
-         <li><img src="gorseller/final2-4.png"></li>
        </ul>
    </li>
  </ol>
  
+ <br>
  <h3>Vize Soru 1:</h3>
  <ol>
    
