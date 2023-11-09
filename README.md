@@ -10,6 +10,7 @@
        <ul>
          <li>C#</li>
          <li>.Net</li>
+          <li>SQL</li>
          <li>Visual Studio</li>
        </ul>
    </li>
